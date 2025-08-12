@@ -16,7 +16,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  * 
- * more comments zzzz
+ * more comments zzzzzz
  *---------------------------------------------------------------------------*/
 
 #include <stdio.h>
